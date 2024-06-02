@@ -1,7 +1,7 @@
 # IA, o futuro já está entre nós!
 
 ## 📒 Descrição
-O sussinto e-book resultado desta pesquisa demonstra o histórico, funcionamento, tecnologias, tendências, mitos e fatos e tecnologias AWS para esta nova ferramenta que já está revolucionando todo o mundo.
+O sucinto e-book resultado desta pesquisa demonstra o histórico, funcionamento, tecnologias, tendências, mitos e fatos e tecnologias AWS para esta nova ferramenta que já está revolucionando todo o mundo.
 
 ## 🤖 Tecnologias Utilizadas
 Foi utilizado o Copilot para elaboração dos textos e seleção da imagem de capa do e-book e o LibreOffice para edição e compilação do conteúdo.
@@ -16,4 +16,4 @@ Como resultado encontramos um conteúdo bastante inteligente sobre o tema aborda
 [Acesso ao e-book](https://github.com/RicardoBrancaglion/lab-natty-or-not/blob/main/E-book%20IA.pdf)
 
 ## 💭 Reflexão (Opcional)
-Ficou bem claro a importancia que IA terá a partir de agora, auxiliando na construção de um mundo melhor.
+Ficou bem claro a importância que IA terá a partir de agora, auxiliando na construção de um mundo melhor.
